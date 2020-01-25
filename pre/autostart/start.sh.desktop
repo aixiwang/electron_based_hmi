@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/test/loader/start.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=app
+Name=app
+Comment[en_US]=
+Comment=
